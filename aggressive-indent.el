@@ -142,6 +142,7 @@ Please include this in your report!"
     makefile-mode
     minibuffer-inactive-mode
     python-mode
+    sass-mode
     special-mode
     shell-mode
     snippet-mode
